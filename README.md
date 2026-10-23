@@ -1,6 +1,6 @@
 # Smart Rename
 
-Smart Rename is a cross-platform command-line bulk file renaming tool built in Python.  
+Smart Rename is a cross platform command line bulk file renaming tool built in Python.  
 It helps users quickly rename multiple files using different renaming operations directly from the terminal.
 
 This project works on:
