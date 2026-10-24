@@ -28,7 +28,7 @@ This project works on:
 - Confirmation mode using `--yes`
 - Undo previous rename operation
 - Duplicate filename protection
-- Cross-platform support using `pathlib`
+- Cross platform support using `pathlib`
 
 ---
 
